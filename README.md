@@ -18,6 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defrahnz&show_icons=true&locale=en" alt="defrahnz" /></p>
 
-# Defrahnz
-# Defrahnz
-# Defrahnz
