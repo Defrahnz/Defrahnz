@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Valdivia</h1>
-<h3 align="center">I'm a Java/Angular Dev from Mexico</h3>
+<h1 align="center">Hola 👋, Mi nombre es Daniel Valdivia</h1>
+<h3 align="center">Soy un desarrollador de Java/Angular proveniente de México</h3>
 
 - 🌱 I’m currently learning **JavaFX Library, Springboot**
 
