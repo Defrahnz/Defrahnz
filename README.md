@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Daniel Valdivia</h1>
-<h3 align="center">Soy un desarrollador de Java/Angular proveniente de México</h3>
+<h3 align="center">Soy desarrollador fullstack proveniente de México</h3>
 
-- 🌱 I’m currently learning **JavaFX Library, Springboot**
+- 🌱 I’m currently learning **Springboot, Docker and AWS**
 
 - 📫 How to reach me **dvaldivia98@hotmail.com**
 
