@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **AWS, GCP, DevOps, GitHub Actions**
 
-- 👨‍💻 All of my projects are available at [https://defrahnz.github.io/portafolio-dvl/](https://defrahnz.github.io/portafolio-dvl/)
+- 👨‍💻 All of my projects are available at [https://portdvl.vercel.app/inicio](https://portdvl.vercel.app/inicio)
 
 - 💬 Ask me about **Java, Angular, Containers, Cloud**
 
 - 📫 How to reach me **dvaldivia98@hotmail.com**
-
-- 📄 Know about my experiences [https://portdvl.vercel.app/inicio](https://portdvl.vercel.app/inicio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
