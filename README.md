@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning AWS, GCP, DevOps, GitHub Actions<br><br>👨‍💻 All of my projects are available at https://portdvl.vercel.app/inicio<br><br>💬 Ask me about Java, Angular, Containers, Cloud<br><br>📫 How to reach me dvaldivia98@hotmail.com
+🌱 I’m currently learning AWS, GCP, DevOps, GitHub Actions<br><br>👨‍💻 All of my projects are available at https://portfolioprojectsdvl.work<br><br>💬 Ask me about Java, Angular, Containers, Cloud<br><br>📫 How to reach me dvaldivia98@hotmail.com
 
 
 ## 🌐 Socials:
